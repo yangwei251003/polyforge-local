@@ -1,0 +1,30 @@
+{
+  "encoding": "ascii",
+  "bytes": 127352,
+  "triangles": 796,
+  "bounds_mm": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      200.0,
+      150.0,
+      60.0
+    ],
+    "size": [
+      200.0,
+      150.0,
+      60.0
+    ]
+  },
+  "surface_area_mm2": 86127.77491827107,
+  "signed_volume_mm3": 204841.06576799983,
+  "absolute_volume_mm3": 204841.06576799983,
+  "degenerate_triangles": 0,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "watertight_by_edge_count": true,
+  "vertex_merge_tolerance_mm": 1e-05
+}

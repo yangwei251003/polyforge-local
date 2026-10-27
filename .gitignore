@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+*.stl
+*.png
+!docs/images/*.png
+MESH_REPORT.md
+MODEL_SPEC.md
+previews/
+output/
+.DS_Store
+
+.local-demo/
+.local/
+__pycache__/
+
+# Deliberately published actual model preview assets
+!/site/shelf.stl
+!/site/shelf.png
+
